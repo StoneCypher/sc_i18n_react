@@ -28,4 +28,4 @@ Consider a few examples of how various cultures write the number one million poi
 | India       | Hindi   | 10,00,000.4 |
 | China       | English | 100,0000.4  |
 
-Now, the want to write <number value="1000000.4"/> might be obvious. `:)`
+Now, the want to write &lt;iNumber value="1000000.4"/&gt; might be obvious. `:)`
