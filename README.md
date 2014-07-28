@@ -28,4 +28,13 @@ Consider a few examples of how various cultures write the number one million poi
 | India       | Hindi   | 10,00,000.4 |
 | China       | English | 100,0000.4  |
 
-Now, the want to write `<iNumber value="1000000.4">` might be obvious. `:)`
+Now, the want to write `<iNumber value="1000000.4"/>` might be obvious. `:)`
+
+
+
+
+
+Polemic :neckbeard:
+===================
+
+`sc_i18n_react` is MIT licensed, because viral licenses and newspeak language modification are evil. Free is only free when it's free for everyone.
